@@ -1,4 +1,4 @@
-# Virtual keyboard Demo
+# TTGO_USB Virtual keyboard Demo
 
 Keyboard.begin();//init
 
