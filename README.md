@@ -1,8 +1,8 @@
-# Bad-USB-demo
+# Virtual keyboard Demo
 
 Keyboard.begin();//init
 
-eyboard.press(KEY_LEFT_GUI);//WIn button
+eyboard.press(KEY_LEFT_GUI);//Win button
 
 delay(500);
 
