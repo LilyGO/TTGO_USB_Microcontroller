@@ -15,8 +15,8 @@ void setup() {//init
   Keyboard.press(KEY_RETURN);
   delay(500);
   Keyboard.release(KEY_RETURN);
-  Keyboard.end();//结束键盘通讯 
+  Keyboard.end();
 }
-void loop()//循环
+void loop()
 {
 }
