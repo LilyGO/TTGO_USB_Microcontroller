@@ -1,8 +1,17 @@
 # TTGO_USB Virtual keyboard Demo
 
+## 1.Download arduino ide
+
+Download and install the arduino software: https://www.arduino.cc/en/software
+
+## 2.Install driver
+Steps to install the product driver: https://www.arduino.cc/en/Guide/DriverInstallation
+
+## 3.Demo Code
+
 Keyboard.begin();//init
 
-eyboard.press(KEY_LEFT_GUI);//Win button
+Keyboard.press(KEY_LEFT_GUI);//Win button
 
 delay(500);
 
